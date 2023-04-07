@@ -1,0 +1,37 @@
+- title: Lead Software Engineer
+  company: Known Global · Cambridge, MA
+  dates: Jun 2018 - Present
+  accomplishments:
+    - "Contributed code to 60+ projects spanning 12 applications and data service engagements using modern technologies and frameworks including <strong>Vue.js/Vuex/Pinia (TypeScript), Flask/FastAPI (Python), Chart.js, Postgres & MySQL, Docker, Kubernetes & Helm, Airflow, AWS & Terraform, Auth0, CircleCI & GitHub Actions.</strong>"
+    - "Led a team of 2-6 engineers and data scientists in building, deploying, and maintaining 6 data visualization and reporting applications and 4 task automation applications."
+    - "Directly supervised and mentored 6 junior-level engineers in Vue.js, Python, and software design best-practices."
+    - "Individually built and deployed a data visualization prototype using <strong>Vue.js and Chart.js</strong> in less than 1 week for a product sales pitch which we won and signed for over $2 million."
+    - "Implemented continuous integration & delivery workflows including unit tests and automated browser-based end-to-end testing across 8 applications using <strong>CircleCI, Github Actions, Cypress, Mocha/Chai, and Pytest.</strong>"
+    - "Designed, built, and deployed an internal technical knowledge-base site using <strong>Gridsome (TypeScript)</strong> and deployed on <strong>AWS S3 and CloudFront.</strong>"
+    - "Notable clients I worked directly with in a customer-facing role include <strong>Paramount, CondéNast, OpenAP, and Sesame Workshop.</strong>"
+- title: Lead Application Developer
+  company: Kirschbaum Development Group · Remote
+  dates: Nov 2017 - Jun 2018
+  accomplishments:
+    - "Individually contributed to 6 client projects using Vue.js, Laravel (PHP), Angular, MySQL, Docker, AWS, Terraform."
+    - "Simultaneously led a team of 2-4 engineers in building, deploying, and maintaining 3 client applications while performing all client-facing relationship management for those engagements."
+- title: Application Developer
+  company: Rediker Software · Hampden, MA
+  dates: Jun 2017 - Nov 2017
+  accomplishments:
+    - "Implemented product features across 3 projects using <strong>Vue.js, C#/.Net Core, and Azure.</strong>"
+    - "Migrated a legacy Django API application to containerized architecture using Docker and Kubernetes."
+- title: Owner, Personal Trainer
+  company: FitBody · Easthampton, MA
+  dates: Oct 2013 - Nov 2016
+  accomplishments:
+    - "Built and deployed 1 automated client retention application and 1 automated client billing management application using <strong>Vue.js, Laravel, Docker, and AWS.</strong>"
+    - "Managed all aspects of a startup business consisting of 2 full-time and 3 part-time employees and grew business to over $250,000 revenue in first fiscal year."
+    - "Implemented a third-party API to enable sending and receiving of SMS text messages (Twilio) from within client retention application."
+- title: General Manager
+  company: Gold's Gym / Greenfield Fitness · Greenfield, MA
+  dates: Oct 2007 - Feb 2012
+  accomplishments:
+    - Migrated from legacy client management software to web-based MINDBODY system which enabled remote management and online sales of gym memberships and services."
+    - "Oversaw all daily operations of the health-club business including direct supervision of 6 full-time and 8 part-time employees."
+    - "Achieved growth of 3,000 new members and $1,500,000 in total revenue over a two year period."

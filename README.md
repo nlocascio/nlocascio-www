@@ -1,14 +1,29 @@
-# Default starter for Gridsome
+# nlocascio-www
 
-This is the project you get when you run `gridsome create new-project`.
+This is the website source code for [https://nlocascio.com/](https://nlocascio.com/).
 
-### 1. Install Gridsome CLI tool if you don't have
+It is a static HTML site built using [Gridsome](https://gridsome.org/) and deployed via AWS S3 & CloudFront.
 
-`npm install --global @gridsome/cli`
+## External dependencies
 
-### 2. Create a Gridsome project
+npm, Node, & aws-cli.
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+## Project Setup
+
+```sh
+make install
+```
+
+## Development
+
+```sh
+make run
+```
+
+## Build & Deploy
+
+See `.envrc.example` for the environment variables which must be set before deploying.
+
+```sh
+make build deploy
+```
